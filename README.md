@@ -64,8 +64,8 @@ After reviewing the company and its impact in the payment industry, I recommend 
 
 APPENDIX
 
-https://en.wikipedia.org/wiki/PayPal Links to an external site.
-https://fintechmagazine.com/digital-payments/story-paypal-worlds-most-valuable-fintech-firm Links to an external site.
-https://www.cardknox.com/white-papers/payments-industry-landscape/ Links to an external site.
-https://s201.q4cdn.com/231198771/files/doc_financials/2022/ar/PayPal-Holdings-Inc.-2022-Combined-Proxy-Statement-and-Annual-Report.pdf Links to an external site.
-https://www.mordorintelligence.com/industry-reports/global-neobanking-market
+1. https://en.wikipedia.org/wiki/PayPal 
+2. https://fintechmagazine.com/digital-payments/story-paypal-worlds-most-valuable-fintech-firm Links to an external site.
+3. https://www.cardknox.com/white-papers/payments-industry-landscape/ 
+4. https://s201.q4cdn.com/231198771/files/doc_financials/2022/ar/PayPal-Holdings-Inc.-2022-Combined-Proxy-Statement-and-Annual-Report.pdf 
+5. https://www.mordorintelligence.com/industry-reports/global-neobanking-market
